@@ -1,4 +1,4 @@
-# ECE 309 · Project 3 starter — Tool Use and the Tool Registry
+# ECE 309 · Project 3 starter: Tool Use and the Tool Registry
 
 Read `P3_spec.md` (in this folder) first. This file only covers setting up the repo.
 
